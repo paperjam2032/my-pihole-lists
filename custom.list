@@ -1,1 +1,21 @@
-
+192.168.0.254 pihole.localdomain
+192.168.0.102 ntp.localdomain
+192.168.0.42 proxmox.localdomain
+192.168.0.203 backup.localdomain
+192.168.0.105 transmission.localdomain
+192.168.0.70 docker.localdomain
+192.168.0.1 pfsense.localdomain
+192.168.0.2 ap1.localdomain
+192.168.0.3 ap2.localdomain
+192.168.0.6 covr.localdomain
+192.168.0.199 omv
+192.168.0.199 omv.localdomain
+192.168.0.109 openldap.localdomain
+192.168.0.100 rclone.localdomain
+192.168.0.70 wazuh.manager
+192.168.0.80 portainer.localdomain
+192.168.0.81 jacket.localdomain
+192.168.0.82 sonar.localdomain
+192.168.0.83 radar.localdomain
+192.168.0.86 sickchill.localdomain
+192.168.0.89 grafana.localdomain

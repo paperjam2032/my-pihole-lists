@@ -12,7 +12,6 @@
 192.168.0.199 omv.localdomain
 192.168.0.109 openldap.localdomain
 192.168.0.100 rclone.localdomain
-192.168.0.70 wazuh.manager
 192.168.0.80 portainer.localdomain
 192.168.0.81 jacket.localdomain
 192.168.0.82 sonar.localdomain

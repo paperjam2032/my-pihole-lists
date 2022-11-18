@@ -21,3 +21,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 22,1,supportmetrics.apple.com,1,1668386324,1668391577,14/11/2022
 25,1,appmetrica.yandex.com,1,1668391274,1668391274,
 26,1,data.mistat.rus.xiaomi.com,1,1668391286,1668391286,
+27,2,(\.|^)lifeisgreat$,1,1668766997,1668767013,18/11/2022

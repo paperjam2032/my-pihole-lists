@@ -1,36 +1,36 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1593572441,1593572441,"Migrated from /etc/pihole/adlists.list",1668767130,158531,0,2
-2,https://mirror1.malwaredomains.com/files/justdomains,0,1593572441,1650277479,"Migrated from /etc/pihole/adlists.list",1608093110,0,0,4
-3,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1593572441,1593572441,"Migrated from /etc/pihole/adlists.list",1668767131,34,0,2
-4,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1593572441,1593572441,"Migrated from /etc/pihole/adlists.list",1668767133,2701,0,2
-5,https://v.firebog.net/hosts/Easyprivacy.txt,1,1593919146,1593919146,EasyPrivacy,1668767134,15124,0,2
-6,https://v.firebog.net/hosts/Prigent-Ads.txt,1,1593945671,1593946429,Prigent,1668767135,3749,0,2
-7,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt,1,1593945696,1593945696,Notrack,1668886087,16366,0,1
-8,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1593945743,1593945743,Add.2o7.Net,1668767137,2030,0,2
-9,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1593945779,1593945779,WindowSpyBlocker,1668767138,347,0,2
-10,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1593945896,1593945896,FirstParty,1668886090,14043,0,1
-11,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1593946448,1593946448,CoinBlocker,1668767143,3496,0,2
-12,https://adaway.org/hosts.txt,1,1593998733,1593998733,Adaway,1668767145,7355,0,2
-13,https://v.firebog.net/hosts/AdguardDNS.txt,1,1593998772,1593998772,Adguard,1668886094,50940,0,1
-14,https://v.firebog.net/hosts/Admiral.txt,1,1593998796,1593998796,Admiral,1668767147,1013,0,2
-15,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1593998843,1593998843,AnudeepND,1668767148,42553,0,2
-16,https://v.firebog.net/hosts/Easylist.txt,1,1593998910,1593998910,EasyList,1668886097,22621,0,1
-17,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1593998938,1593998938,BigDargon,1668767150,17173,0,2
-18,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1663633285,1663633285,PolishFiltersTeam,1668886099,79082,0,1
-19,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1663633300,1663633300,FadeMind,1668767153,57,0,2
-20,https://v.firebog.net/hosts/static/w3kbl.txt,1,1663633319,1663633319,w3kbl,1668767154,356,0,2
-21,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1663633405,1663633405,FadeMind,1668767154,9,0,2
-22,https://urlhaus.abuse.ch/downloads/hostfile/,1,1663633511,1663633511,,1668886100,6219,0,1
-23,https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts,1,1663633526,1663633526,stalkerware-indicators,1668886101,827,0,1
-24,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1663633538,1663633538,Spam404,1668767156,8146,0,2
-25,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1663633551,1663633551,notrack-blocklists,1668886103,615,0,1
-26,https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt,1,1663633563,1663633563,malware-filter,1668886105,69684,0,1
-27,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1663633576,1663633576,phishing_army_blocklist_extended,1668886108,159915,0,1
-28,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1668768340,1668768340,AntiMalwareHosts,1668768515,10150,0,2
-29,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1668768356,1668768356,latestdomains.txt,1668886110,60,0,1
-30,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1668768363,1668768363,,1668768519,2735,0,2
-31,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1668768370,1668768370,,1668768521,53102,0,2
-32,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1668768378,1668768378,,1668768522,2189,0,2
-33,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1668768386,1668768386,,1668768523,2046,0,2
-34,https://v.firebog.net/hosts/RPiList-Malware.txt,1,1668768410,1668768410,,1668768526,212973,0,2
-35,https://v.firebog.net/hosts/RPiList-Phishing.txt,1,1668768416,1668768416,,1668768529,365342,0,2
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1593572441,1668911246,"Migrated from /etc/pihole/adlists.list",,158531,0,2
+2,https://mirror1.malwaredomains.com/files/justdomains,0,1593572441,1668911246,"Migrated from /etc/pihole/adlists.list",,0,0,0
+3,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1593572441,1668911246,"Migrated from /etc/pihole/adlists.list",1668911323,34,0,2
+4,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1593572441,1668911246,"Migrated from /etc/pihole/adlists.list",1668911325,2701,0,2
+5,https://v.firebog.net/hosts/Easyprivacy.txt,1,1593919146,1668911246,EasyPrivacy,1668911326,15127,0,2
+6,https://v.firebog.net/hosts/Prigent-Ads.txt,1,1593945671,1668911247,Prigent,1668911328,3749,0,2
+7,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt,1,1593945696,1668911247,Notrack,1668911329,16371,0,2
+8,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1593945743,1668911247,Add.2o7.Net,1668911329,2030,0,2
+9,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1593945779,1668911248,WindowSpyBlocker,1668911330,347,0,2
+10,https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt,1,1593945896,1668911248,FirstParty,1668911334,14046,0,2
+11,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1593946448,1668911248,CoinBlocker,1668911336,3496,0,2
+12,https://adaway.org/hosts.txt,1,1593998733,1668911248,Adaway,1668911338,7355,0,2
+13,https://v.firebog.net/hosts/AdguardDNS.txt,1,1593998772,1668911249,Adguard,1668911340,50940,0,2
+14,https://v.firebog.net/hosts/Admiral.txt,0,1593998796,1668911909,Admiral,,0,0,4
+15,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1593998843,1668911249,AnudeepND,1668911351,42553,0,2
+16,https://v.firebog.net/hosts/Easylist.txt,1,1593998910,1668911249,EasyList,1668911353,22621,0,2
+17,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1593998938,1668911249,BigDargon,1668911354,17173,0,2
+18,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1663633285,1668911249,PolishFiltersTeam,1668911355,79100,0,2
+19,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1663633300,1668911249,FadeMind,1668911355,57,0,2
+20,https://v.firebog.net/hosts/static/w3kbl.txt,1,1663633319,1668911249,w3kbl,1668911356,356,0,2
+21,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1663633405,1668911249,FadeMind,1668911358,9,0,2
+22,https://urlhaus.abuse.ch/downloads/hostfile/,1,1663633511,1668911249,,1668917122,5930,0,1
+23,https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts,1,1663633526,1668911249,stalkerware-indicators,1668911360,827,0,2
+24,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1663633538,1668911250,Spam404,1668911360,8146,0,2
+25,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1663633551,1668911250,notrack-blocklists,1668911361,615,0,2
+26,https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt,1,1663633563,1668911250,malware-filter,1668911363,68362,0,2
+27,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1663633576,1668911250,phishing_army_blocklist_extended,1668911366,159178,0,2
+28,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1668768340,1668911250,AntiMalwareHosts,1668911367,10150,0,2
+29,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1668768356,1668911250,latestdomains.txt,1668911370,60,0,2
+30,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1668768363,1668911250,,1668911371,2735,0,2
+31,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1668768370,1668911250,,1668911374,53172,0,2
+32,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1668768378,1668911250,,1668911375,2189,0,2
+33,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1668768386,1668911250,,1668911383,2046,0,2
+34,https://v.firebog.net/hosts/RPiList-Malware.txt,1,1668768410,1668911250,,1668911390,212973,0,2
+35,https://v.firebog.net/hosts/RPiList-Phishing.txt,1,1668768416,1668911250,,1668911393,367740,0,2
